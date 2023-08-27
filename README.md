@@ -39,3 +39,7 @@ After writing git status we will get Info like this.
    git commit -m"some message"
 
    Note : git add . -> will change all files.
+
+4. Push Command
+   push - upload local repo content to remote repo 
+   git push origin main/branch name
