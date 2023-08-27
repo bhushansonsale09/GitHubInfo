@@ -60,3 +60,7 @@ After writing git status we will get Info like this.
    git commit-m "commit message"
 
    git push origin main/branch name.
+
+Note :
+   git branch (to check branch)
+   git branch -M main (to rename branch)
