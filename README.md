@@ -57,6 +57,6 @@ After writing git status we will get Info like this.
 
    git add . - Add the changes.
 
-   git commit "commit message"
+   git commit-m "commit message"
 
    git push origin main/branch name.
