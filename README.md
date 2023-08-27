@@ -53,8 +53,10 @@ After writing git status we will get Info like this.
 
    git remote -v (to verify remote)
 
-   git branch (to check branch)
+   git checkout -b branchname (to originate and add new branch)
 
-   git branch -M main (to rename branch)
+   git add . - Add the changes.
 
-   git push origin main
+   git commit "commit message"
+
+   git push origin main/branch name.
