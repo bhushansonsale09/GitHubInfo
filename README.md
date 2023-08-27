@@ -57,10 +57,25 @@ After writing git status we will get Info like this.
 
    git add . - Add the changes.
 
-   git commit-m "commit message"
+   git commit -m "commit message"
 
    git push origin main/branch name.
 
 Note :
    git branch (to check branch)
    git branch -M main (to rename branch)
+
+Summarized Work Flow:
+   Create GitHub Repo -> Clone -> Do fix Change/Code -> Add -> Commit -> push  
+
+6. Branch Commands 
+    
+    git branch (to check branch)
+
+    git branch -M main (to rename branch)
+
+    git checkout <- branch name -> (to navigate)
+
+    git checkout <-new branch name-> (to create new branch)
+
+    git branch -d <- branch name -> (to delete branch)
